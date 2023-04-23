@@ -43,7 +43,7 @@ footer {
 } */
 .image-container .image2-text {
   position: absolute;
-  top: 20%;
+  top: 25%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
@@ -58,4 +58,5 @@ footer {
 .image2-text a {
   margin: 0;
   color: white;
+  text-decoration: none;
 }
