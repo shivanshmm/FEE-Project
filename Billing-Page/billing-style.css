@@ -4,6 +4,11 @@ body {
   overflow-y: scroll;
 }
 
+footer {
+  background-color: #020305;
+  position: fixed;
+  color: #bcbebd;
+}
 .order-header {
   text-align: center;
   font-size: 2rem;

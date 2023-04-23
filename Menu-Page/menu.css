@@ -1,0 +1,16 @@
+body {
+  background-color: #020305;
+  color: #bcbebd;
+  overflow-y: scroll;
+}
+header {
+  color: #020305;
+}
+footer {
+  background-color: #020305;
+  color: #bcbebd;
+}
+video {
+  max-width: 100%;
+  height: auto;
+}
