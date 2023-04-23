@@ -1,9 +1,7 @@
 /* Styles for navigation menu */
 nav {
   background-color: #020305;
-  margin-top: 15px;
   overflow: hidden;
-  margin-bottom: 2%;
   border-bottom: 1px solid #232426;
 }
 
@@ -31,6 +29,7 @@ nav li a {
   font-weight: 525;
   font-size: 1.2rem;
   padding: 14px 16px;
+  margin-top: 7px;
   text-decoration: none;
 }
 
@@ -42,4 +41,6 @@ nav li a:hover {
   width: 48px;
   height: 48px;
   float: left;
+  margin-top: 7px;
+  margin-left: 15px;
 }
