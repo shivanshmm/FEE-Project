@@ -2,12 +2,13 @@ body {
   background-color: #020305;
   color: #bcbebd;
 }
-
+header {
+  color: #020305;
+}
 footer {
   background-color: #bcbebd;
   color: #020305;
 }
-
 @font-face {
   font-family: My-Brush;
   src: url(fonts/PaintBrushScript\ Regular.ttf) format("truetype"),

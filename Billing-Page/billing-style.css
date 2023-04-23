@@ -1,6 +1,7 @@
 /* Styles for billing page */
 body {
   background-color: #020305;
+  overflow-y: scroll;
 }
 
 .order-header {

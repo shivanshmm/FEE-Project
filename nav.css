@@ -1,12 +1,10 @@
 /* Styles for navigation menu */
 nav {
   background-color: #020305;
-  overflow: hidden;
   border-bottom: 1px solid #232426;
 }
 
 nav ul {
-  list-style-type: none;
   margin: 0;
   padding: 0;
   text-align: center;
@@ -15,7 +13,7 @@ nav ul {
   margin-bottom: 0.74%;
   vertical-align: middle;
   display: flex;
-  align-items: center;
+  margin-right: 2.37%;
 }
 
 nav li {
@@ -42,5 +40,4 @@ nav li a:hover {
   height: 48px;
   float: left;
   margin-top: 7px;
-  margin-left: 15px;
 }
