@@ -7,3 +7,54 @@ footer {
   background-color: #bcbebd;
   color: #020305;
 }
+
+@font-face {
+  font-family: My-Brush;
+  src: url(fonts/PaintBrushScript\ Regular.ttf) format("truetype"),
+    url(fonts/PaintBrushScript\ Regular\ 1.otf) format("opentype");
+}
+.Back {
+  height: 100%;
+  width: 100%;
+  margin: 0%;
+}
+
+.image-container {
+  position: relative;
+}
+.image-container img {
+  width: 100%;
+  height: auto;
+}
+.image-container .image1-text {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fafafa;
+  font-size: 7em;
+  font-weight: 500;
+  text-align: center;
+  font-family: "My-Brush", cursive;
+}
+/* .image1-text p {
+  margin: 0;
+} */
+.image-container .image2-text {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 7em;
+  font-weight: 200;
+  text-align: center;
+  font-family: "My-Brush", cursive;
+}
+.image2-text p {
+  margin: 0;
+}
+.image2-text a {
+  margin: 0;
+  color: white;
+}
