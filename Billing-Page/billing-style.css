@@ -5,9 +5,10 @@ body {
 }
 
 footer {
-  background-color: #020305;
+  background-color: #2E2E2E;
   position: fixed;
   color: #bcbebd;
+  text-align: center;
 }
 .order-header {
   text-align: center;
